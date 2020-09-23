@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notification:
+  slack: comunidad-wmedia:amVi4XO4t6vW8WKkyTGeufqp
   email:
     recipients:
       - vallejoaguilar@gmail.com
